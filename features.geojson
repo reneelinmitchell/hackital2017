@@ -1,0 +1,61 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Got Dumplings": "{1,2}"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.499241,
+          38.03395
+        ],
+        "type": "Point"
+      },
+      "id": "14d652ef8856d5fec3d1ee439bfe4f27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Roots Natural Kitchen": "{1,3}"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.499125,
+          38.033892
+        ],
+        "type": "Point"
+      },
+      "id": "4a0ddf77989778a473757257258f0538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Poke Sushi Bowl": "{1,1}"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.49954,
+          38.03443
+        ],
+        "type": "Point"
+      },
+      "id": "61f210f9d9a4bfd38af924d9d706bdbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mellow Mushroom": "{1,4}"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.498634,
+          38.033638
+        ],
+        "type": "Point"
+      },
+      "id": "884aba29673dfb5cb040f501e792a5dc"
+    }
+  ],
+  "type": "FeatureCollection"
+}
